@@ -37,5 +37,5 @@ struct SYM {
   int prior;
 };
 
-#endif  // INCLUDE_TPQUEUEH_
+#endif  // INCLUDE_TPQUEUE_H_
 
