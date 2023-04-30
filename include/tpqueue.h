@@ -9,7 +9,7 @@ class TPQueue {
 
  public:
     T pop() {
-        T el = LIST.front();
+        T el = TPQueue.front();
         TPQueue.pop_front();
         return el;
     }
